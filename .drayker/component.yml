@@ -1,0 +1,35 @@
+schema_version: 1
+component:
+  id: openscience
+  name: Open science & health
+  layer: APPLICATION
+  artifact_type: architecture
+  problem: "Science that cannot be reproduced and health data that cannot be moved are two versions of the same failure — knowledge locked inside whoever collected it.."
+  scope:
+    - "Public description of applications on the Dk kernel."
+    - "Public description of identity through UID."
+    - "Public description of dFM review alongside peer review."
+    - "Public description of data that belongs to the person."
+  non_scope:
+    - "A medical service, a diagnosis, or advice of any kind."
+    - "A claim that any research or health application is running."
+  dependencies:
+    - dk
+    - uid
+    - dfmp
+  implementation:
+    level: none
+    scope: This repository publishes a charter and open questions; nothing is implemented.
+    evidence:
+      - type: document
+        ref: README.md
+  risks:
+    - Design language may be mistaken for an available capability.
+    - The absence of a specification can leave contributions without a clear target.
+  contributions:
+    availability: open
+    entrypoint: https://github.com/draykerdk/open-science/issues
+  source_of_truth:
+    repository: https://github.com/draykerdk/open-science
+    path: README.md
+  last_reviewed: "2026-08-11"
