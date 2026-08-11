@@ -4,15 +4,19 @@ component:
   name: Open science & health
   layer: APPLICATION
   artifact_type: architecture
-  problem: "Science that cannot be reproduced and health data that cannot be moved are two versions of the same failure — knowledge locked inside whoever collected it.."
+  problem: "Science that cannot be reproduced and health data that cannot be moved are two versions of the same failure — knowledge locked inside whoever collected it."
   scope:
     - "Public description of applications on the Dk kernel."
-    - "Public description of identity through UID."
-    - "Public description of dFM review alongside peer review."
+    - "Public description of identity through UID, and consent as the entry condition."
+    - "Public description of professional review between assisted analysis and any person."
+    - "Public description of DFM review alongside peer review."
     - "Public description of data that belongs to the person."
+    - "Public description of a verifiable record as an infrastructure hypothesis."
   non_scope:
-    - "A medical service, a diagnosis, or advice of any kind."
+    - "A medical service, a diagnosis, a treatment recommendation, or advice of any kind."
+    - "Clinical autonomy of any kind, whatever the internal project name suggests."
     - "A claim that any research or health application is running."
+    - "Any handling of real patient data."
   dependencies:
     - dk
     - uid
