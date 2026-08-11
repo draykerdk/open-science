@@ -4,6 +4,8 @@
 
 Smart health and open science built on Dk: research whose data, method and result stay legible to anyone who wants to check them, and health tools that answer to the person rather than to the institution holding the record.
 
+The path it describes runs consent → data and research → assisted analysis → **professional review** → evidence → improvement. Assisted analysis never reaches a person without a qualified human between the two. Internally this line of work is filed under the name Autonomous Health; the name refers to the participant's autonomy over their own data and never to clinical autonomy.
+
 ## The problem it addresses
 
 Science that cannot be reproduced and health data that cannot be moved are two versions of the same failure — knowledge locked inside whoever collected it.
@@ -18,20 +20,26 @@ Science that cannot be reproduced and health data that cannot be moved are two v
 
 Drayker has internal material on autonomous health that is not published, and nothing public states which part of open science comes first, what a health application on Dk would actually do, or how DFM review relates to peer review. Anyone who works in either field is better placed to write that than we are.
 
+The internal assessment is deliberately severe, and it belongs in public: this is conceptual and high-risk work. There is no clinical protocol, no validation, no dataset, no device, no regulatory approval and no safety evidence — not held back, simply absent. Treat every description here as a research direction, and nothing as a capability.
+
 Nothing described here is implemented. This repository exists so that the first
 document about it has somewhere to live and someone can argue with it in public.
 
 ## Scope
 
 - Applications on the Dk kernel
-- Identity through UID
+- Identity through UID, and consent as the entry condition
+- Professional review between assisted analysis and any person
 - DFM review alongside peer review
 - Data that belongs to the person
+- A verifiable record as an infrastructure hypothesis, not a commitment
 
 ## Not in scope
 
-- A medical service, a diagnosis, or advice of any kind.
+- A medical service, a diagnosis, a treatment recommendation, or advice of any kind.
+- Clinical autonomy of any kind, whatever the internal project name suggests.
 - A claim that any research or health application is running.
+- Any handling of real patient data.
 
 ## Role in the system
 
@@ -46,9 +54,12 @@ The first domain the kernel is meant to serve.
 These are concrete and unclaimed. Any of them can be opened as an issue and delivered
 by one person.
 
-1. Write what open science on Dk would have to guarantee.
-2. Describe one health application worth building first.
-3. Compare DFM review with peer review honestly.
+1. Pick one non-clinical research question and demonstrate only search, explanation or
+   organization of evidence — on synthetic data, with specialist review. This is the
+   first thing worth doing, and it is deliberately unglamorous.
+2. Write what open science on Dk would have to guarantee.
+3. Write where the professional review sits, and what it may override.
+4. Compare DFM review with peer review honestly.
 
 ## How to contribute
 
