@@ -1,0 +1,17 @@
+title: "Open science & health"
+description: "The first domain the kernel is meant to serve. Smart health and open science built on Dk: research whose data, method and result stay legible to anyone who wants to check them, and health tools that answer to the person rather than to the institution holding the record.."
+remote_theme: draykerdk/drayker-theme
+url: "https://science.drayker.org"
+dk_kicker: "Applications"
+dk_subdomain: "science.drayker.org"
+dk_repo: "https://github.com/draykerdk/open-science"
+
+# The mark, drawn by the shared engine. The scope colour is the main accent until the
+# mark owner assigns one — DRAYKER-MARK.md §7 forbids inventing a new colour.
+dk_body: "weave"
+dk_rings: "hairline"
+dk_wedge: "terraform"
+dk_accent: "#FF5500"
+
+plugins:
+  - jekyll-sitemap
