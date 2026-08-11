@@ -1,5 +1,3 @@
-# Open science & health
-
 > The first thing all of this is meant to serve: research anyone can check, and health data that follows the person.
 
 **The first domain the kernel is meant to serve.**
