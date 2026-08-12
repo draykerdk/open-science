@@ -1,6 +1,6 @@
 > The first thing all of this is meant to serve: research anyone can check, and health data that follows the person.
 
-**The first domain the kernel is meant to serve.**
+**The first domain Dk is meant to serve.**
 
 Smart health and open science built on Dk: research whose data, method and result stay legible to anyone who wants to check them, and health tools that answer to the person rather than to the institution holding the record.
 
@@ -12,7 +12,7 @@ Science that cannot be reproduced and health data that cannot be moved are two v
 
 **How it works today.** Findings are hard to reproduce, and your medical history is scattered across organizations that will not hand it over.
 
-**What would change.** Both are built on the shared kernel, so provenance and ownership are inherited rather than promised per product.
+**What would change.** Both are built on the shared intelligence — on the kernel beneath it — so provenance and ownership are inherited rather than promised per product.
 
 **Why the rest depends on it.** This is what the infrastructure is for. Without a domain it visibly serves, the rest is engineering for its own sake.
 
@@ -43,7 +43,7 @@ document about it has somewhere to live and someone can argue with it in public.
 
 ## Role in the system
 
-The first domain the kernel is meant to serve.
+The first domain Dk is meant to serve.
 
 **Relations.** An application on Dk · identity through UID · review alongside DFM.
 
