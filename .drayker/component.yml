@@ -2,7 +2,7 @@ schema_version: 1
 component:
   id: openscience
   name: Open science & health
-  layer: APPLICATION
+  layer: KNOWLEDGE
   artifact_type: architecture
   problem: "Science that cannot be reproduced and health data that cannot be moved are two versions of the same failure — knowledge locked inside whoever collected it."
   scope:
