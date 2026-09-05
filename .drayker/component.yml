@@ -1,6 +1,6 @@
 schema_version: 1
 component:
-  id: openscience
+  id: open-science
   name: Open science & health
   layer: KNOWLEDGE
   artifact_type: architecture
