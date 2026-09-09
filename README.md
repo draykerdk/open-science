@@ -1,22 +1,20 @@
-> The first thing all of this is meant to serve: research anyone can check, and health data that follows the person.
+> Research people can examine, with care centred on the person.
 
-**The first domain Dk is meant to serve.**
+Open Science explores how Dk could support research and health through traceable methods, authorised data use and findings that others can examine.
 
-Smart health and open science built on Dk: research whose data, method and result stay legible to anyone who wants to check them, and health tools that answer to the person rather than to the institution holding the record.
+The proposed path connects consent, data provenance, analysis and review, keeping research claims distinguishable from validated applications.
 
-As developed in *Do animal à superinteligência* (Chapter 33, *A Carne e o Futuro*), the biological frontier — from somatic gene editing (such as Casgevy for sickle-cell disorders and CPS1 metabolic pathways) to epigenetic rejuvenation and disease prevention — must be pursued under strict commitments to **universal human flourishing and absolute anti-eugenic ethics**. Drayker explicitly rejects genetic caste stratification, biological apartheid, or corporate patent tollbooths on the molecular heritage of humanity.
+The aim is broadly accessible scientific progress and human flourishing. Each application must establish its own evidence, safeguards and practical limits.
 
-The path it describes runs consent → data and research → assisted analysis → **professional review** → evidence → improvement. Assisted analysis never reaches a person without a qualified human clinician between the two, and every person exercises an inalienable Situated Contextual Veto over their own body and genetic information. Internally this line of work is filed under the name Autonomous Health; the name refers to the participant's autonomy over their own data and bodily choices, never to machine clinical autonomy.
+The internal name **Autonomous Health** refers to the person’s authority over bodily choices and data. Any future clinical use would require qualified professional review, with consent remaining specific and revocable.
+
+## A practical example
+
+A study could publish its method and limitations while protecting participant data and recording which uses each participant authorised. This is an illustration of the proposed design.
 
 ## The problem it addresses
 
-Science that cannot be reproduced and health data that cannot be moved are two versions of the same failure — knowledge locked inside whoever collected it.
-
-**How it works today.** Findings are hard to reproduce, and your medical history is scattered across organizations that will not hand it over.
-
-**What would change.** Both are built on the shared intelligence — on the kernel beneath it — so provenance and ownership are inherited rather than promised per product.
-
-**Why the rest depends on it.** This is what the infrastructure is for. Without a domain it visibly serves, the rest is engineering for its own sake.
+Research depends on reliable evidence and responsible access to data. Health applications also require consent and careful evaluation of their effect on people.
 
 ## Where this stands
 
@@ -24,8 +22,7 @@ Drayker has internal material on autonomous health that is not published, and no
 
 The internal assessment is deliberately severe, and it belongs in public: this is conceptual and high-risk work. There is no clinical protocol, no validation, no dataset, no device, no regulatory approval and no safety evidence — not held back, simply absent. Treat every description here as a research direction, and nothing as a capability.
 
-Nothing described here is implemented. This repository exists so that the first
-document about it has somewhere to live and someone can argue with it in public.
+This repository develops the proposal through public documentation and review. The capabilities described here still require specifications, worked examples and implementation.
 
 ## Scope
 
