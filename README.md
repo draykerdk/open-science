@@ -4,7 +4,9 @@
 
 Smart health and open science built on Dk: research whose data, method and result stay legible to anyone who wants to check them, and health tools that answer to the person rather than to the institution holding the record.
 
-The path it describes runs consent → data and research → assisted analysis → **professional review** → evidence → improvement. Assisted analysis never reaches a person without a qualified human between the two. Internally this line of work is filed under the name Autonomous Health; the name refers to the participant's autonomy over their own data and never to clinical autonomy.
+As developed in *Do animal à superinteligência* (Chapter 33, *A Carne e o Futuro*), the biological frontier — from somatic gene editing (such as Casgevy for sickle-cell disorders and CPS1 metabolic pathways) to epigenetic rejuvenation and disease prevention — must be pursued under strict commitments to **universal human flourishing and absolute anti-eugenic ethics**. Drayker explicitly rejects genetic caste stratification, biological apartheid, or corporate patent tollbooths on the molecular heritage of humanity.
+
+The path it describes runs consent → data and research → assisted analysis → **professional review** → evidence → improvement. Assisted analysis never reaches a person without a qualified human clinician between the two, and every person exercises an inalienable Situated Contextual Veto over their own body and genetic information. Internally this line of work is filed under the name Autonomous Health; the name refers to the participant's autonomy over their own data and bodily choices, never to machine clinical autonomy.
 
 ## The problem it addresses
 
@@ -38,6 +40,7 @@ document about it has somewhere to live and someone can argue with it in public.
 
 - A medical service, a diagnosis, a treatment recommendation, or advice of any kind.
 - Clinical autonomy of any kind, whatever the internal project name suggests.
+- Eugenic optimization, genetic caste stratification, or biological discrimination of any kind.
 - A claim that any research or health application is running.
 - Any handling of real patient data.
 
@@ -45,7 +48,7 @@ document about it has somewhere to live and someone can argue with it in public.
 
 The first domain Dk is meant to serve — the reason the infrastructure exists, and the test of whether it can be trusted with a life.
 
-Open science is an application on [Dk](https://dk.drayker.org): assisted analysis would run on the intelligence, under professional review. Identity through [UID](https://uid.drayker.org) and consent would be entry conditions — the data belongs to the person, not to the institution holding the record. Evidence and papers stay traceable in [Dknowledge](https://dknowledge.drayker.org), reviewed alongside [DFM](https://dfmp.drayker.org). Open laboratories and future territorial [stations or embassies](https://stations.drayker.org) are where collaborative research could meet physical reality, strictly under non-clinical and validated scientific protocols. It sits at the end of the chain that starts with a delivered function — and it is the reason Drayker says the rest is engineering for its own sake without a domain it visibly serves.
+Open science is an application on [Dk](https://dk.drayker.org): assisted analysis runs on the intelligence, under professional review. Identity through [UID](https://uid.drayker.org) and consent are the entry condition — the data belongs to the person, not to the institution holding the record. Evidence and papers stay traceable in [Dknowledge](https://dknowledge.drayker.org), reviewed alongside [DFM](https://dfmp.drayker.org). The clinics and laboratories of the [stations](https://stations.drayker.org) are where the same work meets the physical world. It sits at the end of the chain that starts with a delivered function — and it is the reason Drayker says the rest is engineering for its own sake without a domain it visibly serves.
 
 **Relations.** An application on Dk · identity through UID · review alongside DFM.
 
