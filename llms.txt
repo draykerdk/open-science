@@ -1,6 +1,6 @@
 # Open science & health
 
-> The first domain Dk is meant to serve. Smart health and open science built on Dk: research whose data, method and result stay legible to anyone who wants to check them, and health tools that answer to the person rather than to the institution holding the record.
+> Open Science explores how Dk could support research and health through traceable methods, authorised data use and findings that others can examine.
 
 Open science & health is a public component of Drayker. Drayker is the system; Dk is its intelligence; Dk Network is its network.
 
