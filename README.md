@@ -6,7 +6,7 @@ The proposed path connects consent, data provenance, analysis and review, keepin
 
 The aim is broadly accessible scientific progress and human flourishing. Each application must establish its own evidence, safeguards and practical limits.
 
-The internal name **Autonomous Health** refers to the person’s authority over bodily choices and data. Any future clinical use would require qualified professional review, with consent remaining specific and revocable.
+**Autonomous Health** is the health system this work is meant to build: clinics run with artificial intelligence and integrated with each person’s [UID](https://uid.drayker.org) and [Dk Personal](https://personal.drayker.org). A diagnostic intelligence learns from every examination, a treatment intelligence draws on the whole body of studies and learns from outcomes, and the person’s Dk follows their health over time, for prevention and for personalised, accessible treatment. Clinics and doctors take part through their own registered identities. The data belongs to the person, and consent stays specific and revocable. None of this operates today.
 
 ## A practical example
 
@@ -35,8 +35,7 @@ This repository develops the proposal through public documentation and review. T
 
 ## Not in scope
 
-- A medical service, a diagnosis, a treatment recommendation, or advice of any kind.
-- Clinical autonomy of any kind, whatever the internal project name suggests.
+- A medical service, a diagnosis, a treatment recommendation or advice of any kind today.
 - Eugenic optimization, genetic caste stratification, or biological discrimination of any kind.
 - A claim that any research or health application is running.
 - Any handling of real patient data.
