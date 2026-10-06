@@ -2,7 +2,7 @@
 
 > Open Science explores how Dk could support research and health through traceable methods, authorised data use and findings that others can examine.
 
-Open science & health is a public component of Drayker. Drayker is the system; Dk is its intelligence; Dk Network is its network.
+Open science & health is a public component of Drayker. Drayker is the supersystem; Dk is its intelligence; Dk Network is its network.
 
 ## Canonical resources
 
