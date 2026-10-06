@@ -7,10 +7,10 @@ component:
   problem: "Science that cannot be reproduced and health data that cannot be moved are two versions of the same failure — knowledge locked inside whoever collected it."
   scope:
     - "Public description of applications on the Dk kernel."
-    - "Public description of Autonomous Health: a health system of AI-run clinics integrated with UID and Dk Personal, for prevention and personalised, accessible treatment."
+    - "Public description of Autonomous Health: an AI health system integrated with each person's UID, Dk Personal, personal Dknowledge and devices, with AI-run clinics, investigating patterns with sufficient probability for multifactor detection, prevention and personalised, accessible treatment."
     - "Public description of non-clinical biomedical exploration, longevity, and anti-eugenic commitments."
     - "Public description of identity through UID, Situated Contextual Veto, and consent as the entry condition."
-    - "Public description of professional review between assisted analysis and any person."
+    - "Public description of professional review alongside AI diagnosis and monitoring."
     - "Public description of DFM review alongside peer review."
     - "Public description of data that belongs to the person."
     - "Public description of a verifiable record as an infrastructure hypothesis."

@@ -6,7 +6,7 @@ The proposed path connects consent, data provenance, analysis and review, keepin
 
 The aim is broadly accessible scientific progress and human flourishing. Each application must establish its own evidence, safeguards and practical limits.
 
-**Autonomous Health** is the health system this work is meant to build: clinics run with artificial intelligence and integrated with each person’s [UID](https://uid.drayker.org) and [Dk Personal](https://personal.drayker.org). A diagnostic intelligence learns from every examination, a treatment intelligence draws on the whole body of studies and learns from outcomes, and the person’s Dk follows their health over time, for prevention and for personalised, accessible treatment. Clinics and doctors take part through their own registered identities. The data belongs to the person, and consent stays specific and revocable. None of this operates today.
+**Autonomous Health** is the health system this work is meant to build: an artificial intelligence health system integrated with each person’s [UID](https://uid.drayker.org), [Dk Personal](https://personal.drayker.org), personal Dknowledge and devices, with clinics run with artificial intelligence. Patterns that may be connected to a condition with sufficient probability are investigated, so besides saving lives it improves the multifactor detection of every kind of condition. A diagnostic intelligence learns from every examination, a treatment intelligence draws on the whole body of studies and learns from outcomes, and the person’s Dk follows their health over time, for prevention and for personalised, accessible treatment. Clinics and doctors take part through their own registered identities. The data belongs to the person, and consent stays specific and revocable. None of this operates today.
 
 ## A practical example
 
@@ -18,7 +18,7 @@ Research depends on reliable evidence and responsible access to data. Health app
 
 ## Where this stands
 
-Drayker has internal material on autonomous health that is not published, and nothing public states which part of open science comes first, what a health application on Dk would actually do, or how DFM review relates to peer review. Anyone who works in either field is better placed to write that than we are.
+Drayker has internal material on autonomous health that is not published, and nothing public yet states which part of open science comes first, how Autonomous Health would be built step by step, or how DFM review relates to peer review. Anyone who works in either field is better placed to write that than we are.
 
 The internal assessment is deliberately severe, and it belongs in public: this is conceptual and high-risk work. There is no clinical protocol, no validation, no dataset, no device, no regulatory approval and no safety evidence — not held back, simply absent. Treat every description here as a research direction, and nothing as a capability.
 
@@ -28,7 +28,7 @@ This repository develops the proposal through public documentation and review. T
 
 - Applications on the Dk kernel
 - Identity through UID, and consent as the entry condition
-- Professional review between assisted analysis and any person
+- Professional review alongside AI diagnosis and monitoring
 - DFM review alongside peer review
 - Data that belongs to the person
 - A verifiable record as an infrastructure hypothesis, not a commitment
@@ -44,7 +44,7 @@ This repository develops the proposal through public documentation and review. T
 
 The first domain Dk is meant to serve — the reason the infrastructure exists, and the test of whether it can be trusted with a life.
 
-Open science is an application on [Dk](https://dk.drayker.org): assisted analysis runs on the intelligence, under professional review. Identity through [UID](https://uid.drayker.org) and consent are the entry condition — the data belongs to the person, not to the institution holding the record. Evidence and papers stay traceable in [Dknowledge](https://dknowledge.drayker.org), reviewed alongside [DFM](https://dfmp.drayker.org). The clinics and laboratories of the [stations](https://stations.drayker.org) are where the same work meets the physical world. It sits at the end of the chain that starts with a delivered function — and it is the reason Drayker says the rest is engineering for its own sake without a domain it visibly serves.
+Open science is an application on [Dk](https://dk.drayker.org): AI diagnosis and monitoring run on the intelligence, with professional review. Identity through [UID](https://uid.drayker.org) and consent are the entry condition — the data belongs to the person, not to the institution holding the record. Evidence and papers stay traceable in [Dknowledge](https://dknowledge.drayker.org), reviewed alongside [DFM](https://dfmp.drayker.org). The clinics and laboratories of the [stations](https://stations.drayker.org) are where the same work meets the physical world. It sits at the end of the chain that starts with a delivered function — and it is the reason Drayker says the rest is engineering for its own sake without a domain it visibly serves.
 
 **Relations.** An application on Dk · identity through UID · review alongside DFM.
 
