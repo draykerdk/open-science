@@ -66,7 +66,7 @@ by one person.
 
 Read [CONTRIBUTING.md](https://github.com/draykerdk/.github/blob/master/CONTRIBUTING.md)
 and [GOVERNANCE.md](https://github.com/draykerdk/.github/blob/master/GOVERNANCE.md) in
-the organization. In short: open or find an issue, say in the thread that you are taking
+`draykerdk/.github`. In short: open or find an issue, say in the thread that you are taking
 it, branch as `fn/<issue-number>-<short-name>`, and open a pull request against
 `master`. There is no separate review branch.
 
