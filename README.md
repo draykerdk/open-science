@@ -75,7 +75,7 @@ Participation is voluntary and implies no compensation, employment or future cla
 ## Sources of truth
 
 - This repository, for what Open science & health is and is not.
-- [`.drayker/component.yml`](.drayker/component.yml) — the machine-readable contract,
+- [`.drayker/component.yml`](https://github.com/draykerdk/open-science/blob/master/.drayker/component.yml) — the machine-readable contract,
   validated on every pull request.
 - [drayker.org/project/openscience/](https://drayker.org/project/openscience/) — the same record
   inside the portal, with the live board.
