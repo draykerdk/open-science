@@ -1,3 +1,5 @@
+# Open science & health
+
 > Research people can examine, with care centred on the person.
 
 Open Science explores how Dk could support research and health through traceable methods, authorised data use and findings that others can examine.
@@ -44,7 +46,7 @@ This repository develops the proposal through public documentation and review. T
 
 The first domain Dk is meant to serve — the reason the infrastructure exists, and the test of whether it can be trusted with a life.
 
-Open science is an application on [Dk](https://dk.drayker.org): AI diagnosis and monitoring run on the intelligence, with professional review. Identity through [UID](https://uid.drayker.org) and consent are the entry condition — the data belongs to the person, not to the institution holding the record. Evidence and papers stay traceable in [Dknowledge](https://dknowledge.drayker.org), reviewed alongside [DFM](https://dfmp.drayker.org). The clinics and laboratories of the [stations](https://stations.drayker.org) are where the same work meets the physical world. It sits at the end of the chain that starts with a delivered function — and it is the reason Drayker says the rest is engineering for its own sake without a domain it visibly serves.
+Open science is an application on [Dk](https://dk.drayker.org): AI diagnosis and monitoring run on the intelligence, with professional review. Identity through [UID](https://uid.drayker.org) and consent are the entry condition — the data belongs to the person, not to the institution holding the record. Evidence and papers stay traceable in [Dknowledge](https://dknowledge.drayker.org), reviewed alongside [DFM](https://dfmp.drayker.org). The clinics and laboratories of the [stations](https://stations.drayker.org) are where the same work meets the physical world. It sits at the end of the chain that starts with a delivered function. Without a domain it visibly serves, the rest would be engineering for its own sake.
 
 **Relations.** An application on Dk · identity through UID · review alongside DFM.
 
