@@ -9,11 +9,11 @@ component:
     - "Public description of applications on the Dk kernel."
     - "Public description of Autonomous Health: an AI health system integrated with each person's UID, Dk Personal, personal Dknowledge and devices, with AI-run clinics, investigating patterns with sufficient probability for multifactor detection, prevention and personalised, accessible treatment."
     - "Public description of non-clinical biomedical exploration, longevity, and anti-eugenic commitments."
-    - "Public description of identity through UID, Situated Contextual Veto, and consent as the entry condition."
+    - "Public description of identity through UID, the absolute veto over one's own life and Dk Personal, the justified contextual veto over decisions that directly affect the member's life and context, and consent as the entry condition."
     - "Public description of professional review alongside AI diagnosis and monitoring."
     - "Public description of DFM review alongside peer review."
     - "Public description of data that belongs to the person."
-    - "Public description of a verifiable record as an infrastructure hypothesis."
+    - "Public description of data, processing and records distributed across the network rather than held by one operator, with provenance kept in Dknowledge."
   non_scope:
     - "A medical service, a diagnosis, a treatment recommendation or advice of any kind today."
     - "Eugenic optimization, genetic caste stratification, or biological discrimination."

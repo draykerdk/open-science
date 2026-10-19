@@ -8,7 +8,7 @@ The proposed path connects consent, data provenance, analysis and review, keepin
 
 The aim is broadly accessible scientific progress and human flourishing. Each application must establish its own evidence, safeguards and practical limits.
 
-**Autonomous Health** is the health system this work is meant to build: an artificial intelligence health system integrated with each person’s [UID](https://uid.drayker.org), [Dk Personal](https://personal.drayker.org), personal Dknowledge and devices, with clinics run with artificial intelligence. Patterns that may be connected to a condition with sufficient probability are investigated, so besides saving lives it improves the multifactor detection of every kind of condition. A diagnostic intelligence learns from every examination, a treatment intelligence draws on the whole body of studies and learns from outcomes, and the person’s Dk follows their health over time, for prevention and for personalised, accessible treatment. Clinics and doctors take part through their own registered identities. The data belongs to the person, and consent stays specific and revocable. None of this operates today.
+**Autonomous Health** is the health system this work is meant to build: an artificial intelligence health system integrated with each person’s [UID](https://uid.drayker.org), [Dk Personal](https://personal.drayker.org), personal Dknowledge and devices, with clinics run with artificial intelligence. Patterns that may be connected to a condition with sufficient probability are investigated, so besides saving lives it improves the multifactor detection of every kind of condition. A diagnostic intelligence learns from every examination, a treatment intelligence draws on the whole body of studies and learns from outcomes, and the person’s Dk follows their health over time, for prevention and for personalised, accessible treatment. Clinics and doctors take part through their own registered identities. The data belongs to the person, and consent stays specific and revocable. For every active member, Autonomous Health is the form the common floor takes in health ([Distributed Support](https://support.drayker.org)). None of this operates today.
 
 ## A practical example
 
@@ -20,7 +20,7 @@ Research depends on reliable evidence and responsible access to data. Health app
 
 ## Where this stands
 
-Drayker has internal material on autonomous health that is not published, and nothing public yet states which part of open science comes first, how Autonomous Health would be built step by step, or how DFM review relates to peer review. Anyone who works in either field is better placed to write that than we are.
+The current synthesis of [Autonomous Health](https://dknowledge.drayker.org/papers/main-projects/ecosystem/autonomous-health) and the [order in which it can be built](https://dknowledge.drayker.org/roadmap/main-projects/ecosystem/autonomous-health-roadmap) are published, each stage with an exit condition. What is still open is which part of open science comes first and how DFM review relates to peer review; anyone who works in either field is better placed to write that than we are.
 
 The internal assessment is deliberately severe, and it belongs in public: this is conceptual and high-risk work. There is no clinical protocol, no validation, no dataset, no device, no regulatory approval and no safety evidence — not held back, simply absent. Treat every description here as a research direction, and nothing as a capability.
 
@@ -33,7 +33,7 @@ This repository develops the proposal through public documentation and review. T
 - Professional review alongside AI diagnosis and monitoring
 - DFM review alongside peer review
 - Data that belongs to the person
-- A verifiable record as an infrastructure hypothesis, not a commitment
+- Data, processing and records distributed across the network rather than held by one operator, with provenance kept in [Dknowledge](https://dknowledge.drayker.org)
 
 ## Not in scope
 
@@ -41,6 +41,12 @@ This repository develops the proposal through public documentation and review. T
 - Eugenic optimization, genetic caste stratification, or biological discrimination of any kind.
 - A claim that any research or health application is running.
 - Any handling of real patient data.
+
+## Commitments
+
+Research and care on Dk follow three commitments: care continues after an intervention; those who live with a condition take part in the process; and results stay recorded, even when they contradict the initial promise. The same capacity is meant to sustain research on neglected diseases, the ones the market leaves aside, and to widen access to treatment.
+
+A study may keep an unvalidated technique unpublished, but its purpose, the resources it commits, the conditions of data use and its criterion for stopping are open from the first day to those who oversee it. A request beyond the authorised scope (a finer location than the one participants agreed to, for instance) is refused at once, with the reason recorded and visible to oversight; widening it takes a new authorisation from the participants.
 
 ## How it fits the whole
 
@@ -57,9 +63,11 @@ Open science is an application on [Dk](https://dk.drayker.org): AI diagnosis and
 These are concrete and unclaimed. Any of them can be opened as an issue and delivered
 by one person.
 
-1. Pick one non-clinical research question and demonstrate only search, explanation or
-   organization of evidence — on synthetic data, with specialist review. This is the
-   first thing worth doing, and it is deliberately unglamorous.
+1. A small first function that one person can deliver today: pick one non-clinical
+   research question and demonstrate only search, explanation or organization of
+   evidence, on synthetic data, with specialist review. The order of the larger stages,
+   starting with a first AI-run clinic, is in the
+   [roadmap](https://dknowledge.drayker.org/roadmap/main-projects/ecosystem/autonomous-health-roadmap).
 2. Write what open science on Dk would have to guarantee.
 3. Write where the professional review sits, and what it may override.
 4. Compare DFM review with peer review honestly.
