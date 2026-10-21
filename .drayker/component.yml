@@ -7,9 +7,9 @@ component:
   problem: "Science that cannot be reproduced and health data that cannot be moved are two versions of the same failure — knowledge locked inside whoever collected it."
   scope:
     - "Public description of applications on the Dk kernel."
-    - "Public description of Autonomous Health: an AI health system integrated with each person's UID, Dk Personal, personal Dknowledge and devices, with AI-run clinics, investigating patterns with sufficient probability for multifactor detection, prevention and personalised, accessible treatment."
+    - "Public description of Autonomous Health: an AI health system integrated with each person's UID, personal Dk, personal Dknowledge and devices, with AI-run clinics, investigating patterns with sufficient probability for multifactor detection, prevention and personalised, accessible treatment."
     - "Public description of non-clinical biomedical exploration, longevity, and anti-eugenic commitments."
-    - "Public description of identity through UID, the absolute veto over one's own life and Dk Personal, the justified contextual veto over decisions that directly affect the member's life and context, and consent as the entry condition."
+    - "Public description of identity through UID, the absolute veto over one's own life and one's own personal Dk, the justified contextual veto over decisions that directly affect the member's life and context, and consent as the entry condition."
     - "Public description of professional review alongside AI diagnosis and monitoring."
     - "Public description of DFM review alongside peer review."
     - "Public description of data that belongs to the person."
@@ -38,4 +38,4 @@ component:
   source_of_truth:
     repository: https://github.com/draykerdk/open-science
     path: README.md
-  last_reviewed: "2026-10-19"
+  last_reviewed: "2026-10-21"
