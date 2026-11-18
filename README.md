@@ -63,9 +63,10 @@ Open science is an application on [Dk](https://dk.drayker.org): AI diagnosis and
 These are concrete and unclaimed. Any of them can be opened as an issue and delivered
 by one person.
 
-1. A small first function that one person can deliver today: pick one non-clinical
-   research question and demonstrate only search, explanation or organization of
-   evidence, on synthetic data, with specialist review. The order of the larger stages,
+1. A small first function that one person can deliver today: pick one open biomedical
+   research question and demonstrate reproducible search, synthesis and provenance tracking
+   over public literature and synthetic data, with specialist review (no real patient data and
+   no operating clinical service today). The order of the larger stages toward Autonomous Health,
    starting with a first AI-run clinic, is in the
    [roadmap](https://dknowledge.drayker.org/roadmap/main-projects/ecosystem/autonomous-health-roadmap).
 2. Write what open science on Dk would have to guarantee.
